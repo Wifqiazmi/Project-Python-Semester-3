@@ -1,5 +1,5 @@
 <h1 align="center">Proyek Python Semester 3</h1>
-Proyek ini merupakan bagian dari mata kuliah Analisis Numerik dan Pemrograman Fungsional di Semester 3. Proyek ini bertujuan untuk mengimplementasikan konsep dan algoritma yang dipelajari selama perkuliahan dalam bahasa pemrograman Python.
+<h1 align="center">🐍</h1>
 
 ## Deskripsi
 
