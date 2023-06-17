@@ -6,8 +6,7 @@ Proyek ini adalah bagian dari mata kuliah Analisis Numerik dan Pemrograman Fungs
 ------------------------------------------------------
 | Direktori                 | Berkas                 |
 | --------------------------| -----------------------|
-| `analisis_numerik/`       |                        |
-|                           | Anum Linier1.py        |
+| `analisis_numerik`        | Anum Linier1.py        |
 |                           | Anum Non Linier.py     |
 |                           | Difrensial Biasa.py    |
 |                           | Difrensial Parsial.py  |
@@ -18,7 +17,7 @@ Proyek ini adalah bagian dari mata kuliah Analisis Numerik dan Pemrograman Fungs
 |                           | UTS.py                 |
 |                           | lagrange Dan Newton.py |
 |                           | percobaan.py           |
-| `pemrograman_fungsional/` | Functools module.py    |
+| `pemrograman_fungsional`  | Functools module.py    |
 |                           | Itertools module.py    |
 |                           | Quiz 2.py              |
 |                           | Quiz.1.py              |
