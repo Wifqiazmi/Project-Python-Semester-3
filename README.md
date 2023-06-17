@@ -2,7 +2,7 @@
 
 Proyek ini adalah bagian dari mata kuliah Analisis Numerik dan Pemrograman Fungsional semester 3. Dalam proyek ini, kami mengimplementasikan konsep-konsep penting dalam analisis numerik dan pemrograman fungsional menggunakan bahasa pemrograman Python.
 
-![Python Logo](https://example.com/path/to/your/logo.png)
+![Python Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fwhite%2Fpython-512.png&tbnid=zYRUowhZOQepeM&vet=12ahUKEwi4uZSn28n_AhUFK7cAHUhjBnsQMygLegUIARDJAQ..i&imgrefurl=https%3A%2F%2Fwww.iconsdb.com%2Fwhite-icons%2Fpython-icon.html&docid=2mv-hGxJv1z2-M&w=512&h=512&q=python%20logo%20png&hl=id&ved=2ahUKEwi4uZSn28n_AhUFK7cAHUhjBnsQMygLegUIARDJAQ)
 
 ## Deskripsi
 
