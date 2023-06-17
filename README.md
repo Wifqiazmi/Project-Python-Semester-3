@@ -36,3 +36,6 @@ Mata kuliah Analisis Numerik dan Pemrograman Fungsional memberikan pemahaman men
 2. Clone repositori ini ke komputer lokal Anda.
 3. Buka terminal dan masuk ke direktori proyek.
 4. Jalankan berkas-berkas yang diinginkan menggunakan Python interpreter.
+
+## Authors
+- [Wifqi Azmi](https://www.github.com/Wifqiazmi)
