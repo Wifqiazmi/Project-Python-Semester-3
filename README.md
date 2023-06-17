@@ -1,6 +1,9 @@
 <h1 align="center">Proyek Python Semester 3</h1>
 <h1 align="center">🐍</h1>
 
+## Authors
+- [Wifqi Azmi](https://www.github.com/Wifqiazmi)
+
 ## Deskripsi
 
 Mata kuliah Analisis Numerik dan Pemrograman Fungsional memberikan pemahaman mendalam tentang metode numerik untuk memecahkan masalah matematika secara komputasional. Kami menerapkan konsep-konsep tersebut dalam bahasa pemrograman Python untuk mengembangkan solusi efisien dan akurat.
@@ -15,19 +18,12 @@ Mata kuliah Analisis Numerik dan Pemrograman Fungsional memberikan pemahaman men
 |                           | Difrensial Parsial.py  |
 |                           | Integrasi Numerik.py   |
 |                           | Tranformasi fourier.py |
-|                           | Tubes.py               |
 |                           | Turunan numerik.py     |
-|                           | UTS.py                 |
 |                           | lagrange Dan Newton.py |
-|                           | percobaan.py           |
 | `pemrograman_fungsional`  | Functools module.py    |
 |                           | Itertools module.py    |
-|                           | Quiz 2.py              |
-|                           | Quiz.1.py              |
 |                           | Tugas terstruktur.py   |
-|                           | Tugas1.py              |
-|                           | pertemuan 7.py         |
-|                           | tugas2.py              |
+
 
 
 ## Cara Menjalankan
@@ -37,5 +33,3 @@ Mata kuliah Analisis Numerik dan Pemrograman Fungsional memberikan pemahaman men
 3. Buka terminal dan masuk ke direktori proyek.
 4. Jalankan berkas-berkas yang diinginkan menggunakan Python interpreter.
 
-## Authors
-- [Wifqi Azmi](https://www.github.com/Wifqiazmi)
