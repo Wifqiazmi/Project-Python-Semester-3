@@ -24,9 +24,9 @@ Berikut adalah beberapa fitur dari Python:
 
 Python bersifat open source dan aktif dikembangkan oleh komunitas yang luas. Dokumentasi resmi, tutorial, dan contoh kode dapat ditemukan di [python.org](https://www.python.org/).
 
-## Deskripsi
+# Deskripsi
 
-Mata kuliah Analisis Numerik dan Pemrograman Fungsional memberikan pemahaman mendalam tentang metode numerik untuk memecahkan masalah matematika secara komputasional. Kami menerapkan konsep-konsep tersebut dalam bahasa pemrograman Python untuk mengembangkan solusi efisien dan akurat.
+Pada Mata kuliah Analisis Numerik dan Pemrograman Fungsional memberikan pemahaman mendalam tentang metode numerik untuk memecahkan masalah matematika secara komputasional. Kami menerapkan konsep-konsep tersebut dalam bahasa pemrograman Python untuk mengembangkan solusi efisien dan akurat.
 
 ## Daftar Berkas
 ------------------------------------------------------
@@ -55,10 +55,3 @@ Mata kuliah Analisis Numerik dan Pemrograman Fungsional memberikan pemahaman men
 ## Authors
     
 - [Wifqi Azmi](https://www.github.com/Wifqiazmi)
-    
-### Contoh Kode
-
-Berikut adalah contoh kode sederhana menggunakan Python untuk mencetak "Hallo, world!":
-
-```python
-print("Hallo, world!")
