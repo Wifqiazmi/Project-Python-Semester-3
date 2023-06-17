@@ -1,8 +1,5 @@
 <h1 align="center">Proyek Python Semester 3</h1>
-<h1 align="center">🐍</h1>
-
-## Authors
-- [Wifqi Azmi](https://www.github.com/Wifqiazmi)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 ## Deskripsi
 
@@ -24,7 +21,8 @@ Mata kuliah Analisis Numerik dan Pemrograman Fungsional memberikan pemahaman men
 |                           | Itertools module.py    |
 |                           | Tugas terstruktur.py   |
 
-
+## Authors
+- [Wifqi Azmi](https://www.github.com/Wifqiazmi)
 
 ## Cara Menjalankan
 
