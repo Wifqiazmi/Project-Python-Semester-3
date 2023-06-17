@@ -1,7 +1,10 @@
 # Proyek Python Semester 3
 
-Proyek ini adalah bagian dari mata kuliah Analisis Numerik dan Pemrograman Fungsional semester 3. 
-Dalam proyek ini, mengimplementasikan konsep-konsep penting dalam analisis numerik dan pemrograman fungsional menggunakan bahasa pemrograman Python.
+Proyek ini merupakan bagian dari mata kuliah Analisis Numerik dan Pemrograman Fungsional di Semester 3. Proyek ini bertujuan untuk mengimplementasikan konsep dan algoritma yang dipelajari selama perkuliahan dalam bahasa pemrograman Python.
+
+## Deskripsi
+
+Mata kuliah Analisis Numerik dan Pemrograman Fungsional memberikan pemahaman mendalam tentang metode numerik untuk memecahkan masalah matematika secara komputasional. Kami menerapkan konsep-konsep tersebut dalam bahasa pemrograman Python untuk mengembangkan solusi efisien dan akurat.
 
 ## Daftar Berkas
 ------------------------------------------------------
