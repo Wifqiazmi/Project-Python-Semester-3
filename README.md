@@ -18,7 +18,6 @@ Proyek ini adalah bagian dari mata kuliah Analisis Numerik dan Pemrograman Fungs
 |                           | UTS.py                 |
 |                           | lagrange Dan Newton.py |
 |                           | percobaan.py           |
-------------------------------------------------------
 | `pemrograman_fungsional/` | Functools module.py    |
 |                           | Itertools module.py    |
 |                           | Quiz 2.py              |
